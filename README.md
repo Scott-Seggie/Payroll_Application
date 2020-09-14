@@ -12,4 +12,4 @@ Password: password
 
 
 Main Screen:
-![image](https://user-images.githubusercontent.com/71260255/93091605-3bfa2d00-f696-11ea-890d-d9ea82aab646.png)
+![image](https://user-images.githubusercontent.com/71260255/93091772-7368d980-f696-11ea-8ae8-4e659b2c324a.png)
