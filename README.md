@@ -5,7 +5,7 @@ This project was created as a project for University to dispaly a working knowle
 
 The application allows the user to add job positions with set salaries and edit them, create employees and set their tax codes, calculate weekly, monthly and anual salary before and after tax and produce payslips. 
 
-Login: Admin
+Login: Admin  
 Password: password
 
 ![image](https://user-images.githubusercontent.com/71260255/93091284-cc843d80-f695-11ea-9f2c-e0aabb20cbbc.png)
