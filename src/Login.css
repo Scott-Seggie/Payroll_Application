@@ -1,0 +1,18 @@
+
+.label{
+   -fx-text-fill: white; 
+   -fx-font-weight: bold;
+   -fx-font-size:12pt;
+}
+.button {
+    -fx-background-radius: 30;
+    -fx-text-fill: Black;
+    -fx-background-color: white;
+    -fx-font-weight: bold;
+    -fx-font-size:9pt;
+}
+.button:hover {
+     
+    -fx-opacity: 0.9;
+    -fx-effect: dropshadow(gaussian, #0066cc, 10, 0, 3, 3);
+}

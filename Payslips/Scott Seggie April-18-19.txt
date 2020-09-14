@@ -1,0 +1,30 @@
+		******EMPLOYEE PAYSLIP******
+
+		Period: April-18/19
+
+
+ Name: Scott Seggie		Position: Programmer
+
+ NI Number: JJ 27 37 80 A		TaxCode: 1185L
+
+********************** This Pay *************************
+
+		Gross Pay: £4,166.67
+
+ NI Deduction: £385.63		Tax Deduction: £696.67
+
+		Total Deduction: £1,082.29
+
+		Net Pay: £3,084.37
+
+
+********************* Year to Date **********************
+
+		YTD Gross: £4,166.67
+
+		YTD NI: £385.63
+
+		YTD Tax: £696.67
+
+		YTD Salary: £3,084.37
+

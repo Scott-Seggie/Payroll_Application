@@ -1,0 +1,44 @@
+.text-area *.text {
+    -fx-text-alignment: center;
+    -fx-font-weight: bold;
+    -fx-font-size:12pt;
+}
+
+.text-area{
+  -fx-font-weight: bold;
+ -fx-font-size:12pt;
+}
+
+.root{
+   -fx-background-color: #263238;
+   -fx-font-size:10pt;
+}
+
+.label{
+   -fx-text-fill: white; 
+   -fx-font-weight: bold;
+   -fx-font-size:12pt;
+}
+
+.button {
+    -fx-background-radius: 30;
+    -fx-text-fill: white;
+}
+.button:hover {
+     
+    -fx-opacity: 0.9;
+    -fx-effect: dropshadow(gaussian, #0066cc, 10, 0, 3, 3);
+}
+
+.text-field{
+    -fx-font-size:10pt;
+}
+
+.combo-box-base  
+{
+
+    -fx-background-color: white;
+    -fx-background-radius: 5, 5, 4, 3;
+    -fx-background-insets: 0 0 -1 0, 0, 1, 2;
+    -fx-padding: 0;
+}
