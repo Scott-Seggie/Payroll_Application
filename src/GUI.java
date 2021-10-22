@@ -71,7 +71,7 @@ public class GUI extends Application
  
     //Layout1
     BorderPane mainLayout = new BorderPane();
-    VBox tableView = new VBox();
+    VBox tableView = new HBox();
     HBox addRemove = new HBox();
     VBox rightC = new VBox(20);
     GridPane updateE = new GridPane();
