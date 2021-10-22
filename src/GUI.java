@@ -70,7 +70,7 @@ public class GUI extends Application
     Scene scene, scene2,sceneP,scenePE;
  
     //Layout1
-
+    BorderPane mainLayout = new BorderPane();
     VBox tableView = new VBox();
     HBox addRemove = new HBox();
     VBox rightC = new VBox(20);
